@@ -1,0 +1,66 @@
+{
+  "profesores": [
+    {
+      "Nomnbre": "sergioJsx",
+      "Apellido": "Quintanilla",
+      "Materias": [
+        {
+          "Nomnbre": "JavaScript"
+        },
+        {
+          "Nomnbre": "React"
+        },
+        {
+          "Nombre": "JAVA"
+        }
+      ],
+      "id": "f718"
+    }
+  ],
+  "Alumnos": [
+    {
+      "Nombre": "Mario",
+      "Apellido": "Flores",
+      "Promedio": 9.3,
+      "id": "ed5c"
+    },
+    {
+      "Nombre": "Erika",
+      "Apellido": "Chavez",
+      "Promedio": 8.5,
+      "id": "226f"
+    },
+    {
+      "id": "53cb",
+      "Nombre": "Josue",
+      "Apellido": "Ferdinal",
+      "Promedio": 10
+    },
+    {
+      "id": "b571",
+      "Nombre": "Sergio",
+      "Apellido": "Uke",
+      "Promedio": 7.7
+    }
+  ],
+  "Cursos": [
+    {
+      "Nombre": "Vue desde cero",
+      "Duracion": "23 horas",
+      "Dificulad": "Normal",
+      "id": "c418"
+    },
+    {
+      "Nombre": "JavaScript Intermedio",
+      "Duracion": "32 horas",
+      "Dificulad": "Dificil",
+      "id": "dfc4"
+    },
+    {
+      "Nombre": "Java y Spring Boot",
+      "Duracion": "89 horas",
+      "Dificulad": "Imposible",
+      "id": "a955"
+    }
+  ]
+}
